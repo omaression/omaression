@@ -58,8 +58,17 @@ CS & Engineering student at the University of Toledo. I build full-stack applica
 
 ### Tech Stack
 
-| | |
-|:--|:--|
-| **Languages** | `Python` `JavaScript` `TypeScript` `SQL` `C++` `Java` `HTML` `CSS` |
-| **Frameworks** | `FastAPI` `Django` `Flask` `React` `Next.js` `Pandas` `NumPy` `scikit-learn` `SQLAlchemy` `Pydantic` |
-| **Infrastructure** | `Git` `Docker` `PostgreSQL` `GitHub Actions` `Vercel` `Render` `Linux` `pytest` |
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>SQL</code> <code>C++</code> <code>Java</code> <code>HTML</code> <code>CSS</code></td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td><code>FastAPI</code> <code>Django</code> <code>Flask</code> <code>React</code> <code>Next.js</code> <code>Pandas</code> <code>NumPy</code> <code>scikit-learn</code> <code>SQLAlchemy</code> <code>Pydantic</code></td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td><code>Git</code> <code>Docker</code> <code>PostgreSQL</code> <code>GitHub Actions</code> <code>Vercel</code> <code>Render</code> <code>Linux</code> <code>pytest</code></td>
+  </tr>
+</table>
