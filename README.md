@@ -1,25 +1,24 @@
 <h1 align="center">Omar Abdalla</h1>
 
 <p align="center">
-  <em>Software engineer who ships production-grade products end to end &mdash; spec to deploy.</em>
+  <em>Software engineer shipping production-grade products end to end, from spec to deploy.</em>
 </p>
 
 <p align="center">
   <a href="https://info.omaression.com"><img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/omar-abdalla1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-  <a href="mailto:info@omaression.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/omaression"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-Computer Science &amp; Engineering student at the University of Toledo who ships production-grade software end to end &mdash; from spec and system design to a live, deployed product. I work across full-stack web (Next.js / FastAPI), developer tooling, and applied ML, with a focus on security-minded, spec-driven engineering and agentic AI workflows. Bilingual in Arabic &amp; English, and comfortable building RTL-first.
+Computer Science &amp; Engineering student at the University of Toledo. I ship production-grade software end to end: spec, design, build, and deploy. My work spans full-stack web (Next.js / FastAPI), developer tooling, and applied ML, with a focus on security-minded, spec-driven engineering and agentic AI workflows. Bilingual in Arabic &amp; English, and comfortable building RTL-first.
 
 ### Currently
 
-- 🔭 &nbsp;**Software Engineering Co-op @ Scientific** (Summer 2026) &mdash; solo-engineered and shipped a production **bilingual (Arabic-first RTL + English)** website for a Saudi pharmaceuticals &amp; medical-devices firm on **Next.js 15, React 19, TypeScript, and Sanity CMS**, owning spec, architecture, build, and deploy.
-- 🎓 &nbsp;**B.S. in Computer Science &amp; Engineering** @ University of Toledo &mdash; expected May 2027 (President's List).
-- ⚡ &nbsp;**How I build:** spec-driven, security-minded, and fast &mdash; with deep, hands-on use of Claude Code and agentic AI workflows.
+- **Software Engineering Co-op @ Scientific** (Summer 2026): solo-shipped a production **bilingual (Arabic-first RTL + English)** site for a Saudi pharmaceuticals &amp; medical-devices firm on **Next.js 15, React 19, TypeScript, and Sanity CMS**, owning spec to deploy.
+- **B.S. Computer Science &amp; Engineering**, University of Toledo, expected May 2027 (President's List).
+- **How I build:** spec-driven, security-minded, and fast, with deep hands-on use of Claude Code and agentic AI.
 
 ---
 
@@ -31,7 +30,7 @@ Computer Science &amp; Engineering student at the University of Toledo who ships
   </tr>
   <tr>
     <td>
-      A Claude Code plugin distilled from a real, shipped production build &mdash; a bilingual (Arabic-default RTL + English), SFDA-compliant company-profile website for a Saudi pharma &amp; medical-devices firm. Packages the patterns that survived production into <strong>10 skills, 3 commands, 2 review subagents, and an invariant-guard hook</strong>, shipped as a self-hosted plugin marketplace.<br><br>
+      A Claude Code plugin distilled from a real production build: a bilingual (Arabic-default RTL + English), SFDA-compliant company-profile site for a Saudi pharma &amp; medical-devices firm. Packs the patterns that survived production into <strong>10 skills, 3 commands, 2 review subagents, and an invariant-guard hook</strong>, shipped as a self-hosted plugin marketplace.<br><br>
       <code>Claude Code</code> <code>Python</code> <code>Agentic AI</code> <code>Next.js</code> <code>Sanity</code> <code>Vercel</code>
     </td>
   </tr>
@@ -43,7 +42,7 @@ Computer Science &amp; Engineering student at the University of Toledo who ships
   </tr>
   <tr>
     <td>
-      An end-to-end MVP that turns ClinicalTrials.gov study records into a patient-matching and trial-operations workflow: ingests and normalizes studies, extracts canonical eligibility criteria from free-text via an NLP pipeline, runs deterministic patient-to-trial matching with stored explanations, and exports FHIR <code>ResearchStudy</code> / <code>MedicationStatement</code> resources &mdash; with provenance, confidence, and terminology-grounding safety throughout.<br><br>
+      An end-to-end MVP that turns ClinicalTrials.gov records into a patient-matching workflow: it ingests and normalizes studies, extracts eligibility criteria from free text via an NLP pipeline, runs deterministic patient-to-trial matching with stored explanations, and exports FHIR <code>ResearchStudy</code> / <code>MedicationStatement</code> resources. Provenance, confidence, and terminology-grounding safety throughout.<br><br>
       <code>FastAPI</code> <code>PostgreSQL</code> <code>spaCy / SciSpaCy</code> <code>Next.js</code> <code>TypeScript</code> <code>Docker</code>
     </td>
   </tr>
@@ -54,15 +53,15 @@ Computer Science &amp; Engineering student at the University of Toledo who ships
 <table>
   <tr>
     <td valign="top"><strong><a href="https://github.com/omaression/smb-cashflow-risk">smb-cashflow-risk</a></strong>&ensp;<a href="https://cashflow.omaression.com"><sup>Live</sup></a></td>
-    <td>Full-stack invoice risk-scoring platform that flags late-payment risk, explains risk signals, and projects near-term cash balances for small businesses. <br><sub><code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Docker</code></sub></td>
+    <td>Full-stack platform that scores unpaid invoices for late-payment risk, explains the signals, and projects near-term cash for small businesses. <br><sub><code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Docker</code></sub></td>
   </tr>
   <tr>
     <td valign="top"><strong><a href="https://github.com/omaression/tidyfit">tidyfit</a></strong>&ensp;<a href="https://pypi.org/project/tidyfit/"><sup>PyPI</sup></a></td>
-    <td>Reusable ML utilities for leakage-safe preprocessing, reproducible stratified splits, schema validation, and an evaluation suite with threshold sweeping and ROC/PR curves. <br><sub><code>Python</code> <code>scikit-learn</code> <code>pandas</code> <code>pytest</code></sub></td>
+    <td>ML utilities for leakage-safe preprocessing, reproducible splits, schema validation, and model evaluation with threshold sweeps and ROC/PR curves. <br><sub><code>Python</code> <code>scikit-learn</code> <code>pandas</code> <code>pytest</code></sub></td>
   </tr>
   <tr>
     <td valign="top"><strong><a href="https://github.com/omaression/agent-skills">agent-skills</a></strong></td>
-    <td>Modular, composable skills that extend AI coding agents with memory management, context optimization, and self-improving agent patterns. <br><sub><code>Python</code> <code>TypeScript</code> <code>JavaScript</code></sub></td>
+    <td>Composable skills that extend AI coding agents with memory, context optimization, and self-improving patterns. <br><sub><code>Python</code> <code>TypeScript</code> <code>JavaScript</code></sub></td>
   </tr>
 </table>
 
