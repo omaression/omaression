@@ -1,7 +1,7 @@
 <h1 align="center">Omar Abdalla</h1>
 
 <p align="center">
-  <em>Software engineer shipping production-grade products end to end, from spec to deploy.</em>
+  <strong>Full-Stack Software Engineer</strong> &nbsp;&middot;&nbsp; I take products from first spec to live, production-grade deploy.
 </p>
 
 <p align="center">
@@ -12,25 +12,28 @@
 
 ---
 
-Computer Science &amp; Engineering student at the University of Toledo. I ship production-grade software end to end: spec, design, build, and deploy. My work spans full-stack web (Next.js / FastAPI), developer tooling, and applied ML, with a focus on security-minded, spec-driven engineering and agentic AI workflows. Bilingual in Arabic &amp; English, and comfortable building RTL-first.
+I am a Computer Science &amp; Engineering student who ships real, production-grade software, not just course projects. I drive products end to end (spec, system design, build, deploy) across full-stack web, developer tooling, and applied ML, with a bias for spec-driven, security-minded engineering and agentic AI workflows. Bilingual in Arabic &amp; English, and I build RTL-first.
+
+> **What that looks like in practice:** as a Summer 2026 Software Engineering Co-op, I solo-shipped a production **bilingual (Arabic-first RTL + English)** website for an **SFDA-regulated Saudi pharma firm**, owning spec to deploy. Live in **3 days**, feature-complete in **10**, hardened with ~48 tests, on a **$21/month** footprint.
 
 ### Currently
 
-- **Software Engineering Co-op @ Scientific** (Summer 2026): solo-shipped a production **bilingual (Arabic-first RTL + English)** site for a Saudi pharmaceuticals &amp; medical-devices firm on **Next.js 15, React 19, TypeScript, and Sanity CMS**, owning spec to deploy.
+- **Software Engineering Co-op @ Scientific** (Summer 2026), building the bilingual KSA pharma platform above on Next.js 15, React 19, TypeScript, and Sanity.
 - **B.S. Computer Science &amp; Engineering**, University of Toledo, expected May 2027 (President's List).
 - **How I build:** spec-driven, security-minded, and fast, with deep hands-on use of Claude Code and agentic AI.
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured Work
 
 <table>
   <tr>
-    <td><strong><a href="https://github.com/omaression/company-profile-plugin">company-profile-plugin</a></strong>&ensp;<sup>MIT · open source</sup></td>
+    <td><strong><a href="https://github.com/omaression/company-profile-plugin">company-profile-plugin</a></strong>&ensp;<sup>MIT &middot; open source</sup></td>
   </tr>
   <tr>
     <td>
-      A Claude Code plugin distilled from a real production build: a bilingual (Arabic-default RTL + English), SFDA-compliant company-profile site for a Saudi pharma &amp; medical-devices firm. Packs the patterns that survived production into <strong>10 skills, 3 commands, 2 review subagents, and an invariant-guard hook</strong>, shipped as a self-hosted plugin marketplace.<br><br>
+      <strong>Makes the next bilingual, compliance-aware corporate site fast to ship.</strong><br>
+      A Claude Code plugin distilled from a real production build (a bilingual, SFDA-compliant company-profile site for a Saudi pharma firm). Packs the patterns that survived production into <strong>10 skills, 3 commands, 2 review subagents, and an invariant-guard hook</strong>, shipped as a self-hosted plugin marketplace.<br><br>
       <code>Claude Code</code> <code>Python</code> <code>Agentic AI</code> <code>Next.js</code> <code>Sanity</code> <code>Vercel</code>
     </td>
   </tr>
@@ -42,7 +45,8 @@ Computer Science &amp; Engineering student at the University of Toledo. I ship p
   </tr>
   <tr>
     <td>
-      An end-to-end MVP that turns ClinicalTrials.gov records into a patient-matching workflow: it ingests and normalizes studies, extracts eligibility criteria from free text via an NLP pipeline, runs deterministic patient-to-trial matching with stored explanations, and exports FHIR <code>ResearchStudy</code> / <code>MedicationStatement</code> resources. Provenance, confidence, and terminology-grounding safety throughout.<br><br>
+      <strong>Turns messy ClinicalTrials.gov eligibility text into usable patient matches.</strong><br>
+      An end-to-end MVP that ingests and normalizes studies, extracts eligibility criteria from free text via an NLP pipeline, runs deterministic patient-to-trial matching with stored explanations, and exports FHIR <code>ResearchStudy</code> / <code>MedicationStatement</code> resources. Provenance, confidence, and terminology-grounding safety throughout.<br><br>
       <code>FastAPI</code> <code>PostgreSQL</code> <code>spaCy / SciSpaCy</code> <code>Next.js</code> <code>TypeScript</code> <code>Docker</code>
     </td>
   </tr>
@@ -133,6 +137,19 @@ Computer Science &amp; Engineering student at the University of Toledo. I ship p
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omaression&layout=compact&langs_count=8&hide_border=true&theme=default" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaression&layout=compact&langs_count=8&hide_border=true" alt="Top languages" height="165" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <strong>Open to internships, co-ops, and new-grad software engineering roles.</strong><br>
+  Have a problem worth building for? Let's talk.
+</p>
+
+<p align="center">
+  <a href="https://info.omaression.com">Portfolio</a> &nbsp;&middot;&nbsp;
+  <a href="https://linkedin.com/in/omar-abdalla1">LinkedIn</a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/omaression">GitHub</a>
 </p>
 
 <p align="center"><sub>Bilingual (Arabic / English) &middot; Building from Toledo, OH</sub></p>
