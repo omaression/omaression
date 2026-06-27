@@ -147,7 +147,7 @@ I am a Computer Science &amp; Engineering student who ships real, production-gra
 </p>
 
 <p align="center">
-  <a href="https://info.omaression.com">Portfolio</a> &nbsp;&middot;&nbsp;
+  <a href="https://omaression.com">Portfolio</a> &nbsp;&middot;&nbsp;
   <a href="https://linkedin.com/in/omar-abdalla1">LinkedIn</a> &nbsp;&middot;&nbsp;
   <a href="https://github.com/omaression">GitHub</a>
 </p>
